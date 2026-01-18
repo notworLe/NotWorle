@@ -1,8 +1,10 @@
 ## Hi there 👋
-Kono Lê Đức Huy niwa yume ga aru, kẻ mạnh nhất.
+**私はL notworLe です。夢があります。kẻ mạnh nhất**
 
+The word AI engineer is my passion that i am following. My real name is Lê Đức Huy. You can call me as notworLe.
+I am passionate about learning, not just in IT.
 <div class="center">
-      <p>All my contributions</p>
+      <p><b>All my contributions</b></p>
       <img alt="Snake animation" src="https://raw.githubusercontent.com/NotWorle/NotWorle/output/github-contribution-grid-snake.svg"/>
 </div>
 
