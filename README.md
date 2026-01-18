@@ -1,7 +1,7 @@
 ## Hi there 👋
 **私はL notworLe です。夢があります。kẻ mạnh nhất**
 
-The word AI engineer is my passion that i am following. My real name is Lê Đức Huy. You can call me as notworLe.
+The word AI engineer is my passion that i am following. My real name is Lê Đức Huy. You can call me as notworLe.  
 I am passionate about learning, not just in IT.
 <div class="center">
       <p><b>All my contributions</b></p>
