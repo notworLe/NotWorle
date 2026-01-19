@@ -4,7 +4,6 @@
 The word AI engineer is my passion that i am following. My real name is Lê Đức Huy. You can call me as notworLe.  
 I am passionate about learning, not just in IT.
 <div class="center">
-      <p><b>All my contributions</b></p>
       <img alt="Snake animation" src="https://raw.githubusercontent.com/NotWorle/NotWorle/output/github-contribution-grid-snake.svg"/>
 </div>
 
