@@ -54,27 +54,24 @@ class notworLe:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-241A54?style=for-the-badge&logo=python&logoColor=F5F5F5)
+![C++](https://img.shields.io/badge/C++-241A54?style=for-the-badge&logo=c%2B%2B&logoColor=F5F5F5)
+![SQL](https://img.shields.io/badge/SQL-241A54?style=for-the-badge&logo=postgresql&logoColor=F5F5F5)
+![JavaScript](https://img.shields.io/badge/JavaScript-241A54?style=for-the-badge&logo=javascript&logoColor=F5F5F5)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![PyTorch](https://img.shields.io/badge/PyTorch-241A54?style=for-the-badge&logo=pytorch&logoColor=F5F5F5)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-241A54?style=for-the-badge&logo=scikitlearn&logoColor=F5F5F5)
+![Pandas](https://img.shields.io/badge/Pandas-241A54?style=for-the-badge&logo=pandas&logoColor=F5F5F5)
+![NumPy](https://img.shields.io/badge/NumPy-241A54?style=for-the-badge&logo=numpy&logoColor=F5F5F5)
 
 **Tools & Env**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-241A54?style=for-the-badge&logo=git&logoColor=F5F5F5)
+![Docker](https://img.shields.io/badge/Docker-241A54?style=for-the-badge&logo=docker&logoColor=F5F5F5)
+![Jupyter](https://img.shields.io/badge/Jupyter-241A54?style=for-the-badge&logo=jupyter&logoColor=F5F5F5)
+![VSCode](https://img.shields.io/badge/VSCode-241A54?style=for-the-badge&logo=visualstudiocode&logoColor=F5F5F5)
 
 </div>
 
@@ -87,14 +84,14 @@ class notworLe:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   「強さとは、諦めないことだ。」                               ║
+║    「強さとは、諦めないことだ。」                                ║
 ║   Strength is the refusal to give up.                        ║
 ║                                                              ║
 ║   ░ Learn relentlessly — not just CS, but everything.        ║
 ║   ░ Build things that scare you a little.                    ║
 ║   ░ Compete only with who you were yesterday.                ║
 ║   ░ Discipline > motivation. Systems > feelings.             ║
-║   ░ Sức mạnh thật sự đến từ bên trong. ✦                    ║
+║   ░ Sức mạnh thật sự đến từ bên trong.                       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
